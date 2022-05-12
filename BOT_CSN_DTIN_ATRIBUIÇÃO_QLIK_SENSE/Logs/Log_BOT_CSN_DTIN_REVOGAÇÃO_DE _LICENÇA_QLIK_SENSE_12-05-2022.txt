@@ -1,0 +1,54 @@
+__________________________________________________________________________________________________________
+[12-05-2022 10:12:53]: Workflow: Logs - INFO - ********** Iniciando nova execu��o do processo  **********
+----------------------------------------------------
+[12-05-2022 10:12:53]: Workflow: Logs - INFO - Sucesso na Configuração dos Logs
+----------------------------------------------------
+[12-05-2022 10:12:53]: Workflow: Conexion - INFO - Start no processo de validação da conexão com a internet
+
+[12-05-2022 10:12:53]: Workflow: Conexion - INFO - Conexão com a Internet validada!
+__________________________________________________________________________________________________________
+[12-05-2022 10:12:56]: Workflow: ValidacaoECriacaoDePastas - INFO - Start processo de validação e criação de pastas
+
+[12-05-2022 10:12:56]: Workflow: ValidacaoECriacaoDePastas - INFO - Pasta backup criada com sucesso
+
+[12-05-2022 10:12:56]: Workflow: ValidacaoECriacaoDePastas - INFO - Pasta Anual criada com sucesso
+
+[12-05-2022 10:12:56]: Workflow: ValidacaoECriacaoDePastas - INFO -  Pasta Mensal criada com sucesso
+
+[12-05-2022 10:12:57]: Workflow: ValidacaoECriacaoDePastas - INFO - Pasta Diaria criada com sucesso
+__________________________________________________________________________________________________________
+[12-05-2022 10:14:39]: Workflow: Logs - INFO - ********** Iniciando nova execução do processo  **********
+----------------------------------------------------
+[12-05-2022 10:14:39]: Workflow: Logs - INFO - Sucesso na Configuração dos Logs
+----------------------------------------------------
+[12-05-2022 10:14:40]: Workflow: Conexion - INFO - Start no processo de validação da conexão com a internet
+
+[12-05-2022 10:14:40]: Workflow: Conexion - INFO - Conexão com a Internet validada!
+__________________________________________________________________________________________________________
+[12-05-2022 10:14:41]: Workflow: ValidacaoECriacaoDePastas - INFO - Start processo de validação e criação de pastas
+
+[12-05-2022 10:14:41]: Workflow: ValidacaoECriacaoDePastas - INFO - Existência da Pasta backup validada
+
+[12-05-2022 10:14:41]: Workflow: ValidacaoECriacaoDePastas - INFO - Existência da Pasta Anual validada
+
+[12-05-2022 10:14:41]: Workflow: ValidacaoECriacaoDePastas - INFO - Existência da Pasta Mensal validada
+
+[12-05-2022 10:14:41]: Workflow: ValidacaoECriacaoDePastas - INFO -  Existência da Pasta Diaria validada
+__________________________________________________________________________________________________________
+[12-05-2022 10:15:50]: Workflow: Logs - INFO - ********** Iniciando nova execução do processo  **********
+----------------------------------------------------
+[12-05-2022 10:15:50]: Workflow: Logs - INFO - Sucesso na Configuração dos Logs
+----------------------------------------------------
+[12-05-2022 10:15:50]: Workflow: Conexion - INFO - Start no processo de validação da conexão com a internet
+
+[12-05-2022 10:15:51]: Workflow: Conexion - INFO - Conexão com a Internet validada!
+__________________________________________________________________________________________________________
+[12-05-2022 10:15:52]: Workflow: ValidacaoECriacaoDePastas - INFO - Start processo de validação e criação de pastas
+
+[12-05-2022 10:15:52]: Workflow: ValidacaoECriacaoDePastas - INFO - Existência da Pasta backup validada
+
+[12-05-2022 10:15:52]: Workflow: ValidacaoECriacaoDePastas - INFO - Existência da Pasta Anual validada
+
+[12-05-2022 10:15:52]: Workflow: ValidacaoECriacaoDePastas - INFO - Existência da Pasta Mensal validada
+
+[12-05-2022 10:15:52]: Workflow: ValidacaoECriacaoDePastas - INFO -  Existência da Pasta Diaria validada

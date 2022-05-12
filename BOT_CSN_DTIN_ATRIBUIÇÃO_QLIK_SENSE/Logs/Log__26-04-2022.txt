@@ -1,0 +1,8 @@
+__________________________________________________________________________________________________________
+[26-04-2022 03:07:30]: Workflow: Logs - INFO - ********** Iniciando nova execu��o do processo  **********
+----------------------------------------------------
+[26-04-2022 03:07:30]: Workflow: Logs - INFO - Sucesso na Configuração dos Logs
+----------------------------------------------------
+[26-04-2022 03:07:31]: Workflow: Conexion - INFO - Start no processo de validação da conexão com a internet
+
+[26-04-2022 03:07:31]: Workflow: Conexion - INFO - Conexão com a Internet validada!
